@@ -6,7 +6,7 @@ Team: Brokodes
 
 Start here with,
 
-https://www.hackster.io/Infineon_Team/i2s-mems-microphone-im69d130-for-raspberry-pi-848b81[infinion blog link]
+https://www.hackster.io/Infineon_Team/i2s-mems-microphone-im69d130-for-raspberry-pi-848b81 [infinion blog link]
 
 conda create -f env.yaml
 
